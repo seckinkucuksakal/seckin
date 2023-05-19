@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\visualstudio\yaroslav\x64\Debug\yaroslav.vcxproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\visualstudio\yaroslav\x64\Debug\yaroslav.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\visualstudio\yaroslav\x64\Debug\yaroslav.Form1.resources
+C:\Users\lenovo\Desktop\visualstudio\yaroslav\x64\Debug\yaroslav.vcxproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\visualstudio\yaroslav\x64\Debug\yaroslav.exe
